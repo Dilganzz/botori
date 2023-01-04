@@ -2,14 +2,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-global.owner = ['628xxx'] //Masukin nomor mu
-global.ownernomer = "628xxx" //Masukin nomor mu
-global.premium = ['628xxx'] //Masukin nomor mu
-global.namanya = 'NamaKamu' //Masukin nama mu
-global.fakename = '© NamaKamu' //Masukin nama mu
-global.botname = 'ᗷOT ᗰᗪ' //Masukin nama bot kamu
-global.packname = 'Sticker By' //Gakusah di ubah kalau mau di ubah Monggo 
-global.author = 'DhaniYo?' //Monggo kalau mau ubah
+global.owner = ['6282382694824'] //Masukin nomor mu
+global.ownernomer = "6282382694824" //Masukin nomor mu
+global.premium = ['6285271784792'] //Masukin nomor mu
+global.namanya = 'DIL STORE' //Masukin nama mu
+global.fakename = '© DIL' //Masukin nama mu
+global.botname = 'DIL ᗰᗪ' //Masukin nama bot kamu
+global.packname = 'DIL STORE' //Gakusah di ubah kalau mau di ubah Monggo 
+global.author = 'SV DIL SRORE' //Monggo kalau mau ubah
 global.sessionName = 'KamuNanya' //Gak usah di ubah
 global.jumlha = '999' //Gak usah di ubah
 global.jumhal = '100000000000000' //Gak usah di ubah
@@ -25,7 +25,7 @@ global.gaya03 =  '⚔️' //Monggo kalau mau ubah
 global.gayar = '❏' //Monggo kalau mau ubah
 global.gayas = '❏' //Monggo kalau mau ubah
 global.scmu = 'Sc?\nEmang mau buat apa?' //Monggo kalau mau ubah
-global.githubmu = 'https://github.com/namagithub' //Isi nama github mu
+global.githubmu = 'https://github.com/PROVAT' //Isi nama github mu
 global.ytmu = 'https://youtube.com/channel/UCcnWMxH0nUbArCCkqubUeHA' //Gak usah di ubah
 global.ytvmu = 'https://youtube.com/shorts/b_L5jlwrFRs?feature=share' //Gak usah di ubah
 global.mess = {
